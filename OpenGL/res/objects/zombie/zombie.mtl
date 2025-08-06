@@ -1,0 +1,68 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl zom_corpseeater_head_a_org1_LOD0_mtl_zom_corpseeater_head_org1
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd zom_corpseeater_head_a_org1_LOD0_mtl_zom_corpseeater_head_org1_baseColor.png
+map_Bump -bm 1.000000 zom_corpseeater_head_a_org1_LOD0_mtl_zom_corpseeater_head_org1_normal.png
+
+newmtl zom_corpseeater_head_a_org1_LOD0_mtl_zom_corpseeater_mask2b_org
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd zom_corpseeater_head_a_org1_LOD0_mtl_zom_corpseeater_mask2b_org1_baseColor.png
+map_Bump -bm 1.000000 zom_corpseeater_head_a_org1_LOD0_mtl_zom_corpseeater_mask2b_org1_normal.png
+
+newmtl zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_body_org1
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_body_org1_baseColor.png
+map_Bump -bm 1.000000 zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_body_org1_normal.png
+
+newmtl zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_gear_org1
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.097944 0.007738 0.004559
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_gear_org1_baseColor.png
+map_Bump -bm 1.000000 zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_gear_org1_normal.png
+
+newmtl zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_legs_org1
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_legs_org1_baseColor.png
+map_Bump -bm 1.000000 zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_legs_org1_normal.png
+
+newmtl zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_skirt_org
+Ns 25.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_skirt_org1_baseColor.png
+map_d zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_skirt_org1_baseColor.png
+map_Bump -bm 1.000000 zom_corpseeater_torso_a_org1_LOD0_mtl_zom_corpseeater_skirt_org1_normal.png

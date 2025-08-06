@@ -1,0 +1,17 @@
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL_Stuff\Library\glad.c;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\glad.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\API\OpenGL\CoreOpenGL.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\CoreOpenGL.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Core\ModelManager.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\ModelManager.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Core\ShaderManager.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\ShaderManager.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Engine.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Engine.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Entity\ActionType.h;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\ActionType.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Entity\Chest\ChestEntity.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\ChestEntity.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Entity\Coin\CoinEntity.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\CoinEntity.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Entity\Enemy\ZombieEntity.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\ZombieEntity.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Entity\EntityFactory.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\EntityFactory.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Entity\Lights\LightEntity.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\LightEntity.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Game.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Game.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Hitbox\Hitbox.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Hitbox.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Map\Map.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Map.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Game\Player.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Player.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Input\Input.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Input.obj
+C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\src\Main.cpp;C:\Users\Erick\Documents\Visual Studio 2022\PROYECTO_COMPU\OpenGL\OpenGL\x64\Debug\Main.obj
